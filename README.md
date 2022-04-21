@@ -1,1 +1,1 @@
-# Discord-Stealer-Emoji
+Discord Stealer Emoji
