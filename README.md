@@ -8,8 +8,8 @@ Discord Stealer Emoji
 ```````````````````````````````````````````````
 
 Discord 
-https://discord.gg/XR6RfwTH
+``https://discord.gg/XR6RfwTH``
 
 Email     
-everybadday007@gmail.com
+``everybadday007@gmail.com``
 
