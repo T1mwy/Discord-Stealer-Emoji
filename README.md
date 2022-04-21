@@ -7,3 +7,6 @@ Discord Stealer Emoji
   3) Enjoy
 
 ```````````````````````````````````````````````
+
+Discord https://discord.gg/XR6RfwTH
+Email     everybadday007@gmail.com
