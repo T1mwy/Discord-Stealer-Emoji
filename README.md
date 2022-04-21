@@ -6,8 +6,4 @@ Discord Stealer Emoji
   2) Open main.py and choose a choice
   3) Enjoy
 
-Discord Server
-
-https://discord.gg/XR6RfwTH
-
 ```````````````````````````````````````````````
