@@ -1,4 +1,5 @@
 import requests
+import ultrarequests
 import os
 import shutil
 import colorama
