@@ -1,13 +1,10 @@
 import requests
 import os
 import shutil
-import ultrarequests
-import colorama
-import time
 import json
-
+import time
 from json import load
-from colorama import Fore, Back, Style
+from colorama import Fore
 
 UI = """
       ____ _   _________  ____________  _______
@@ -16,14 +13,13 @@ UI = """
     \____/|___/___/_/|_| /_/ /___/_/  /_/___/ 
                                             \n"""
 
-
 os.system("cls")
 token = load(open('config.json'))["token"]
 os.system("cls")
 
 def main():
     if __name__ == "__main__":
-        guilds = requests.get("https://discord.com/api/v9/users/@me/guilds", headers={"authorization": token}).json()
+        guilds = requests.get("https://discord.com/api/v10/users/@me/guilds", headers={"authorization": token}).json()
         i = 0
         msg = ""
         server_ids = []
